@@ -1,6 +1,6 @@
 # Memetic Algorithm
 
-This is my Memetic Algorithm. It implements a simple hill climb as its local search and standard crossover and mutation as its "global" search. When the generations are done it's assumed that the soultion found will be in a quasi-/convex area so a local minimizer is applied to find the local optimum. This optimizer is known as Powell's method and is a derivative free method.
+This is my Memetic Algorithm. It implements a simple hill climb as its local search and standard crossover and mutation as its "global" search. When the generations are done it's assumed that the soultion found will be in a quasi-/convex area so a local minimizer is applied to find the local optimum. This optimizer is known as Powell's method and is a derivative free method. No hyperparameters have been optimized.
 
 For the 2D Ackley function 
 
