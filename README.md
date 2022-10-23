@@ -9,17 +9,23 @@ For the 2D Ackley function
 the algorithm finds the optimal solution:
 
 This is the Ackley function
+
 The memetic algorithm gives:
+
 Best Fittness:  0.00237  Analytical Optimal Fitness:  0
+
 Best Solution:  [-0.14224275  0.22810971]  Analytical Optimal Solution:  [0]
+
 Using this as solution as a starting guess for Powell search we get:
+
 Best Fittness:  6.661338147750939e-15  Analytical Optimal Fitness:  0
+
 Best Solution:  [1.22523451e-15 1.81596749e-15]  Analytical Optimal Solution:  [0]
 
-The evolution of the best and mean solution can be seen here
+The evolution of the best and mean solution can be seen here:
 
 ![](https://github.com/bolibomp/MemeticAlgorithm/blob/main/Figure_1.png?raw=true)
 
-The solution and solution space can be seen here
+The solution and solution space can be seen here:
 
 ![](https://github.com/bolibomp/MemeticAlgorithm/blob/main/Figure_2.png?raw=true)
